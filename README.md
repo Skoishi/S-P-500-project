@@ -1,0 +1,1 @@
+This is an project use machine learning try to interplot the function. The later part of this project tried harder set of function used the S&P 500 historical data for the training set and try to get the trend of market
